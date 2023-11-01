@@ -1,0 +1,10 @@
+@charset "Utf-8";
+
+font-face {
+    font-family: font1;
+    src: url(Fontes/ToonySans_PERSONAL_USE_ONLY.otf);
+}
+
+*{
+border: 10px;
+}
